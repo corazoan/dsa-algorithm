@@ -1,0 +1,12 @@
+In Queues context enqueue mean push.
+                  dequeue mean pop the recent item.
+                  peek mean look the recent item.
+
+
+
+In Stack context there is concept of LIFO. This mean last in first out.
+Array.
+
+
+In Queues context there is concept of FIFO. Which mean first in first out.
+Linked List
